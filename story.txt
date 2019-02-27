@@ -2,3 +2,5 @@ Once upon a time there was a very enthusiastic UW Madison computer science stude
 
 It was late at night, and thus it was very dark and nobody else was out. Then a van pulled up next to him, somebody jumped out, put a hood over his head
 and threw him in the van. The computer science student was extremly freightened and had no idea where the abductors were taking him.
+
+Although he couldn't see it, he used his memory to open a program he had written on his mobile phone, able to send a distress signal to his family without any fuss, and send them their position. Soon, his family received a signal and called the police.
